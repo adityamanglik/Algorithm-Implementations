@@ -1,0 +1,1 @@
+I am doing a Machine Learning course on Udemy. The instructor (Hadellin de ponteves) told about a few association rule learning models, namely Apriori and Eclat. However, no code was shared for the Eclat model, only the algorithm. So I decided the implement the Eclat model by myself to see the algorithm in practise and test my understanding.
