@@ -1,0 +1,1 @@
+I am doing a Machine Learning course on Udemy. The instructor (Hadellin de ponteves) told about a few reinforcement learning models, namely UCB and Thompson Sampling. However, no code was shared for the UCB model, only the algorithm. So I decided the implement the UCB model by myself to see the algorithm in practise and test my understanding.
